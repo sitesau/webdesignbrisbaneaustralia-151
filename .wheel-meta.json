@@ -1,0 +1,22 @@
+{
+  "wheel_id": 397,
+  "structure": "umbrella",
+  "slug": "webdesignbrisbaneaustralia-151",
+  "project": "web-design-brisbane-before-you-start-6a940182975719c2694be24eac",
+  "parent_t1_ref": "webdesignbrisbaneaustralia-011",
+  "node_role": "buffer",
+  "money_target": "webdesignbrisbaneaustralia.com.au",
+  "primary_kw": "web design brisbane before you start",
+  "intended_url": "https://sitesau.github.io/webdesignbrisbaneaustralia-151/",
+  "tier": "T2",
+  "writeback_nonce": "403221c50e8f905f",
+  "links": [
+    {
+      "target_url": "https://web-design-brisbane-d15cad.gitlab.io/",
+      "anchor": "https://web-design-brisbane-d15cad.gitlab.io/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
